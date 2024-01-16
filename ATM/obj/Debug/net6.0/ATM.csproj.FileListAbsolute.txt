@@ -1,0 +1,15 @@
+/Users/shubhadabagal/Projects/ATM/ATM/obj/Debug/net6.0/ATM.csproj.AssemblyReference.cache
+/Users/shubhadabagal/Projects/ATM/ATM/obj/Debug/net6.0/ATM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shubhadabagal/Projects/ATM/ATM/obj/Debug/net6.0/ATM.AssemblyInfoInputs.cache
+/Users/shubhadabagal/Projects/ATM/ATM/obj/Debug/net6.0/ATM.AssemblyInfo.cs
+/Users/shubhadabagal/Projects/ATM/ATM/obj/Debug/net6.0/ATM.csproj.CoreCompileInputs.cache
+/Users/shubhadabagal/Projects/ATM/ATM/bin/Debug/net6.0/ATM
+/Users/shubhadabagal/Projects/ATM/ATM/bin/Debug/net6.0/ATM.deps.json
+/Users/shubhadabagal/Projects/ATM/ATM/bin/Debug/net6.0/ATM.runtimeconfig.json
+/Users/shubhadabagal/Projects/ATM/ATM/bin/Debug/net6.0/ATM.dll
+/Users/shubhadabagal/Projects/ATM/ATM/bin/Debug/net6.0/ATM.pdb
+/Users/shubhadabagal/Projects/ATM/ATM/obj/Debug/net6.0/ATM.dll
+/Users/shubhadabagal/Projects/ATM/ATM/obj/Debug/net6.0/refint/ATM.dll
+/Users/shubhadabagal/Projects/ATM/ATM/obj/Debug/net6.0/ATM.pdb
+/Users/shubhadabagal/Projects/ATM/ATM/obj/Debug/net6.0/ATM.genruntimeconfig.cache
+/Users/shubhadabagal/Projects/ATM/ATM/obj/Debug/net6.0/ref/ATM.dll
